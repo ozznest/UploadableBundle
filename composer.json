@@ -1,18 +1,14 @@
 {
-  "name": "youshido/uploadable",
+  "name": "ozznest/uploadable",
   "type": "symfony-bundle",
   "description": "Bundle for easy integrations upload properties to entity",
   "keywords": ["upload", "file uploads", "symfony", "file", "form", "bundle"],
-  "homepage": "https://github.com/Youshido/UploadableBundle",
+  "homepage": "https://github.com/ozznest/UploadableBundle",
   "license": "MIT",
   "authors": [
     {
-      "name": "Portey Vasil",
-      "email": "portey@gmail.com"
-    },
-    {
-      "name": "Alexandr Viniychuk",
-      "email": "a@viniychuk.com"
+      "name": "Olexiy Chuiko",
+      "email": "oznest@i.ua"
     }
   ],
   "require": {
